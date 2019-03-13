@@ -12,7 +12,7 @@
 
 
 function whileLoop(n) {
-  var n = 27
+  // var n = 27
   while (n > 0) {
     console.log(--n)
   }
