@@ -11,12 +11,12 @@ return array
 }
 
 
-// function whileLoop(i) {
-//   var i = 27
-//   while (i > 0) {
+// function whileLoop(n) {
+//   var n = 27
+//   while (n > 0) {
 //     console.log(--countdown)
 //   }
-//   for (i === 0) {
+//   for (n === 0) {
 //     return "done"
 //   }
 // }
