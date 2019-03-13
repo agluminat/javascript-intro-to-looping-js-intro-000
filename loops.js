@@ -10,7 +10,8 @@ function forLoop(array) {
 return array
 }
 
-function whileLoop(i) {
+
+// function whileLoop(i) {
 //   var i = 27
 //   while (i > 0) {
 //     console.log(--countdown)
