@@ -14,7 +14,7 @@
 function whileLoop(n) {
   var n = 27
   while (n > 0) {
-    console.log(--countdown)
+    console.log(--n)
   }
   for (n === 0) {
     return "done"
